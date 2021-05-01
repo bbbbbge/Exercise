@@ -1,0 +1,2 @@
+﻿  test.cpp
+d:\study\c++\c++_5_1\code_1\code_1\test.cpp(34): error C2676: 二进制“+”:“std::string”不定义该运算符或到预定义运算符可接收的类型的转换
