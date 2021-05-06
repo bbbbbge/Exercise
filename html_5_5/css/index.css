@@ -1,0 +1,22 @@
+p{
+  color: brown;
+  font-size: 20px;
+  font-family: "\5E7C\5706";
+  font-weight: 600;
+  font-style: normal;
+}
+#title{
+  color: burlywood;
+  font: 25xp "\5B8B\4F53";
+}
+.pink{
+  color: gray;
+  font: italic 700 25px "\5B8B\4F53";
+}
+*{
+  color: green;
+}
+.blue{
+  color: yellowgreen;
+  font: normal 400 18px \8349\4e66\000d\000a;
+}
