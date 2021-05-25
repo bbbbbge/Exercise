@@ -1,0 +1,3 @@
+﻿  test.c
+d:\study\c\c_5_25\code_1\code_1\test.c(273): warning C4013: “gets”未定义；假设外部返回 int
+  code_1.vcxproj -> D:\Study\C\C_5_25\code_1\Debug\code_1.exe
