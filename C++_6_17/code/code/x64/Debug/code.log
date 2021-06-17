@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\study\c++\c++_6_17\code\code\test.cpp(397): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\study\c++\c++_6_17\code\code\test.cpp(400): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  code.vcxproj -> D:\Study\C++\C++_6_17\code\x64\Debug\code.exe
