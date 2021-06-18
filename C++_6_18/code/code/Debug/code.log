@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\study\c++\c++_6_18\code\code\test.cpp(512): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\c++\c++_6_18\code\code\test.cpp(515): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\c++\c++_6_18\code\code\test.cpp(531): warning C4018: “<”: 有符号/无符号不匹配
+  code.vcxproj -> D:\Study\C++\C++_6_18\code\Debug\code.exe
